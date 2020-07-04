@@ -1,0 +1,16 @@
+.board{
+  height: 80vh;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+
+}
+.box_container{
+  width: 400px;
+  height: 400px;
+  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap;
+}
